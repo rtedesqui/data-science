@@ -1,2 +1,3 @@
 # data-science
-Repo for first data science project
+
+Learning about Git, GitHub, and data science 
